@@ -17,4 +17,4 @@ Add detours.lib to Linker additional libraries.
 - ReadConsoleW <br>
 
 Write file to tmp folder, Process using CSRSS (Inter Process Communiction) not trigger consoleReadW(), 
-but command itself still captured.
+but command line still captured.
